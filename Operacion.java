@@ -9,6 +9,7 @@ public class Operacion {
     public double Sumar(double a, double b) {
         return a + b;
     }
+    
     public int Sumar(int a, int b, int c) {
         return a + b + c;
     }
