@@ -17,5 +17,7 @@ public class Main {
         // Test the Sumar method with negative integers
         int result4 = op.Sumar(-5, 10);
         System.out.println("Resultado de la suma con un número negativo: " + result4);
+
+        op.imprimirNumeroImpares(5);
     }
 }
